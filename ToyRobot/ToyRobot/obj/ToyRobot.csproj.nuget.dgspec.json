@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\aksha\\source\\repos\\ToyRobot\\ToyRobot\\ToyRobot.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\aksha\\source\\repos\\ToyRobot\\ToyRobot\\ToyRobot.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\aksha\\source\\repos\\ToyRobot\\ToyRobot\\ToyRobot.csproj",
+        "projectName": "ToyRobot",
+        "projectPath": "C:\\Users\\aksha\\source\\repos\\ToyRobot\\ToyRobot\\ToyRobot.csproj",
+        "packagesPath": "C:\\Users\\aksha\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aksha\\source\\repos\\ToyRobot\\ToyRobot\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\aksha\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

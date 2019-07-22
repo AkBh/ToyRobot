@@ -1,0 +1,17 @@
+C:\Users\aksha\source\repos\ToyRobot\ToyRobotTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\aksha\source\repos\ToyRobot\ToyRobotTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\aksha\source\repos\ToyRobot\ToyRobotTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\aksha\source\repos\ToyRobot\ToyRobotTest\bin\Debug\netcoreapp2.1\ToyRobotTest.deps.json
+C:\Users\aksha\source\repos\ToyRobot\ToyRobotTest\bin\Debug\netcoreapp2.1\ToyRobotTest.runtimeconfig.json
+C:\Users\aksha\source\repos\ToyRobot\ToyRobotTest\bin\Debug\netcoreapp2.1\ToyRobotTest.runtimeconfig.dev.json
+C:\Users\aksha\source\repos\ToyRobot\ToyRobotTest\bin\Debug\netcoreapp2.1\ToyRobotTest.dll
+C:\Users\aksha\source\repos\ToyRobot\ToyRobotTest\bin\Debug\netcoreapp2.1\ToyRobotTest.pdb
+C:\Users\aksha\source\repos\ToyRobot\ToyRobotTest\bin\Debug\netcoreapp2.1\ToyRobot.dll
+C:\Users\aksha\source\repos\ToyRobot\ToyRobotTest\bin\Debug\netcoreapp2.1\ToyRobot.pdb
+C:\Users\aksha\source\repos\ToyRobot\ToyRobotTest\obj\Debug\netcoreapp2.1\ToyRobotTest.csprojAssemblyReference.cache
+C:\Users\aksha\source\repos\ToyRobot\ToyRobotTest\obj\Debug\netcoreapp2.1\ToyRobotTest.csproj.CoreCompileInputs.cache
+C:\Users\aksha\source\repos\ToyRobot\ToyRobotTest\obj\Debug\netcoreapp2.1\ToyRobotTest.AssemblyInfoInputs.cache
+C:\Users\aksha\source\repos\ToyRobot\ToyRobotTest\obj\Debug\netcoreapp2.1\ToyRobotTest.AssemblyInfo.cs
+C:\Users\aksha\source\repos\ToyRobot\ToyRobotTest\obj\Debug\netcoreapp2.1\ToyRobotTest.csproj.CopyComplete
+C:\Users\aksha\source\repos\ToyRobot\ToyRobotTest\obj\Debug\netcoreapp2.1\ToyRobotTest.dll
+C:\Users\aksha\source\repos\ToyRobot\ToyRobotTest\obj\Debug\netcoreapp2.1\ToyRobotTest.pdb
