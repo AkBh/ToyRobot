@@ -28,3 +28,5 @@ LEFT
 MOVE
 REPORT
 Output: 3,3,NORTH
+
+Unit test can be run by Right click on Tests.cs file and click on run the tests. Due to time lmit I have not included all the test cases.
